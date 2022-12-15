@@ -1,7 +1,5 @@
 import Card from "../Card/Card";
 import styled from "styled-components";
-import { Link } from "react-router-dom";
-import Detail from "../Detail/Detail";
 const EstiloCartas = styled.div `
    display: flex;
    justify-content: center;

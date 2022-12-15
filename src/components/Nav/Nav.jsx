@@ -1,6 +1,5 @@
 import SearchBar from "../Searchbar/SearchBar";
 import React from "react";
-import img from "./RickAndMorty.png"
 import styled from "styled-components";
 import { Link } from 'react-router-dom';
 

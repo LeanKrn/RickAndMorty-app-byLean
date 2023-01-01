@@ -37,7 +37,7 @@ export default function About () {
       <EstiloImg src={img} />
       </a>
       <hr></hr>
-      <EstiloP>Esta app fue creada con Html,Css,JavaScript,React y Redux</EstiloP>
+      <EstiloP>Esta app fue creada con Html,Css,JavaScript y React</EstiloP>
       <EstiloP>Este es mi primer proyecto en el curso de full stack developer en Soy henry</EstiloP>
       <EstiloP>Un bootcamp que avarca tecnologias tanto del frontEnd como del backEnd</EstiloP>
 

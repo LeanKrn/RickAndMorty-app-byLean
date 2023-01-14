@@ -11,8 +11,8 @@ export default function App(props) {
   const [character, setCharacter] = React.useState([])
   const navigate = useNavigate();
   const [access, setAccess] = useState(false);
-  const username = 'ejemplo@gmail.com';
-  const password = '1password';
+  const username = 'e@gmail.com';
+  const password = '1';
   const location = useLocation();
 
 
